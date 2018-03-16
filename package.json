@@ -1,0 +1,23 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "node assignment2 course era",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "currency": "^4.1.0",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sajidkhaki"
+  },
+  "author": "sajidkhaki",
+  "license": "ISC"
+}
